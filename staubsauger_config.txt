@@ -1,0 +1,1 @@
+rfid_tuer topics/rfid/1234/result/scan mqtt.host 1883
